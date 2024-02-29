@@ -35,7 +35,7 @@ label {
     
 }
 input {
-    width: 24rem;
+    width: 20rem;
     height: 1.8rem;
     border: 1px solid rgba(0, 0, 255, 0.863);
     border-radius: 3px;
@@ -59,6 +59,6 @@ input:focus {
 }
 @media screen and (max-width: 740px) {
     input {
-        width: 21rem;
+        width: 15rem;
     }
 }
